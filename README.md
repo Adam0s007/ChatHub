@@ -1,0 +1,4 @@
+- **Public Messaging:** Broadcast messages to all connected users.
+- **Private Messaging:** Send direct, private messages to specific users.
+- **User Management:** View a list of currently connected users.
+- **Real-Time Updates:** Instant notifications for user connections and disconnections.
